@@ -1,11 +1,29 @@
 {
   "typography": {
     "font-size-base": "14px",
-    "scale-factor-desktop": "1.414"
+    "scale-factor-desktop": "1.414",
+    "scale-factor-mobile": "1.25",
+    "line-height-normal": "1.4",
+    "line-height-small": "1.2",
+    "line-height-mini": "1"
   },
   "colour": {
     "colour-text-primary": "rgba(0,0,0,0.87)",
     "colour-text-secondary": "rgba(0,0,0,0.54)",
-    "colour-text-hint": "rgba(0,0,0,0.38)"
+    "colour-text-hint": "rgba(0,0,0,0.38)",
+    "colour-text-link": "aqua"
+  },
+  "spacing": {
+    "spacing-none": "0px",
+    "spacing-small": "5px",
+    "spacing-medium": "10px",
+    "spacing-large": "20px",
+    "spacing-x-large": "30px"
+  },
+  "shape": {
+    "border-radius-big": "8px",
+    "border-radius-normal": "4px",
+    "border-radius-small": "2px",
+    "border-radius-circle": "50%"
   }
 }
