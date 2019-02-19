@@ -1,9 +1,9 @@
 {
   "typography": {
-    "font-size-base": "14px",
+    "font-size-base": 14,
     "scale-factor-desktop": "1.414",
     "scale-factor-mobile": "1.25",
-    "line-height-normal": "1.4",
+    "line-height-normal": 1.4,
     "line-height-small": "1.2",
     "line-height-mini": "1"
   },
@@ -14,16 +14,23 @@
     "colour-text-link": "aqua"
   },
   "spacing": {
-    "spacing-none": "0px",
-    "spacing-small": "5px",
-    "spacing-medium": "10px",
-    "spacing-large": "20px",
-    "spacing-x-large": "30px"
+    "spacing-none": 0,
+    "spacing-small": 5,
+    "spacing-medium": 10,
+    "spacing-large": 20,
+    "spacing-x-large": 30
   },
   "shape": {
-    "border-radius-big": "8px",
-    "border-radius-normal": "4px",
-    "border-radius-small": "2px",
+    "border-radius-big": 8,
+    "border-radius-normal": 4,
+    "border-radius-small": 2,
     "border-radius-circle": "50%"
+  },
+  "elevation": {
+    "z-0": 0,
+    "z-1": 2,
+    "z-2": 4,
+    "z-3": 8,
+    "z-4": 16
   }
 }
