@@ -1,17 +1,19 @@
 {
   "typography": {
     "font-size-base": 14,
-    "scale-factor-desktop": "1.414",
+    "scale-factor-desktop": 1.414,
     "scale-factor-mobile": "1.25",
     "line-height-normal": 1.4,
-    "line-height-small": "1.2",
-    "line-height-mini": "1"
+    "line-height-small": 1.2,
+    "line-height-mini": 1,
+    "font-family": "Roboto"
   },
   "colour": {
     "colour-text-primary": "rgba(0,0,0,0.87)",
     "colour-text-secondary": "rgba(0,0,0,0.54)",
     "colour-text-hint": "rgba(0,0,0,0.38)",
-    "colour-text-link": "aqua"
+    "colour-text-link": "aqua",
+    "charts": {}
   },
   "spacing": {
     "spacing-none": 0,
