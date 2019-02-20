@@ -1,0 +1,11 @@
+{
+  "typography": {
+    "font-size-base": "14px",
+    "scale-factor-desktop": "1.414"
+  },
+  "colour": {
+    "colour-text-primary": "rgba(0,0,0,0.87)",
+    "colour-text-secondary": "rgba(0,0,0,0.54)",
+    "colour-text-hint": "rgba(0,0,0,0.38)"
+  }
+}

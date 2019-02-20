@@ -6,7 +6,13 @@
     "line-height-normal": 1.4,
     "line-height-small": 1.2,
     "line-height-mini": 1,
-    "font-family": "Roboto"
+    "font-family": "Roboto",
+    "font-style-italic": "italic",
+    "fontWeight":{
+      "light": 300,
+      "normal": 400,
+      "bold": 500
+    }
   },
   "colour": {
     "colour-text-primary": "rgba(0,0,0,0.87)",
